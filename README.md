@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/pfQFAIwK8RqPs3YMIC/giphy.gif)
+
 # 💇 About GoBarber
 
 
