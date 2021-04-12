@@ -1,4 +1,4 @@
-# About GoBarber
+# 💇 About GoBarber
 
 
 The repository for GoBarber, a complete appointment management solution for barbers.
@@ -8,7 +8,7 @@ The web applicaiton allows customers to choose when they would like to schedule 
 While barbers can see all of their appointments and manage them in real-time.
 
 
-## Tech Stack
+## 🖥️ Tech Stack
 
 * ReactJS
 * Node.js
